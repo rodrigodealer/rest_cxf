@@ -17,7 +17,7 @@ http://cxf.apache.org/schemas/jaxrs.xsd">
     <import resource="classpath:META-INF/cxf/cxf.xml" />
     <import resource="classpath:META-INF/cxf/cxf-servlet.xml" />
 
-    <context:component-scan base-package="br.com.atlantico" />
+    <context:component-scan base-package="br.com.pordotom" />
 
     <tx:annotation-driven order="1" />
 
